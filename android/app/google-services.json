@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "504099590047",
+    "project_id": "presence-c6d6a",
+    "storage_bucket": "presence-c6d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504099590047:android:211c73e8ee039d557f77aa",
+        "android_client_info": {
+          "package_name": "com.djanari.presence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504099590047-prjs0cvi3pf4d8p8a87jfesjab8l4kml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV5f8Z1dq8nOc7g6O-qpRnvtAJRm90w5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504099590047-prjs0cvi3pf4d8p8a87jfesjab8l4kml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504099590047-qmn32c34r0rpdctu1dpqdi65a2a36t55.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.djanari.presence"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
